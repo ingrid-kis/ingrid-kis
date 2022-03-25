@@ -27,6 +27,9 @@
    <img align="center" alt="Kis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Kis-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="Kis-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="Kis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" alt="Kis-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+       
    <a href="https://imgur.com/9PPxPkx"><img align="right" alt="Profile-pic" height="150" style="border-radius:50px" src="https://i.imgur.com/9PPxPkx.gif" title="source: imgur.com" /></a>
 </div>
                 
