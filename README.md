@@ -1,14 +1,13 @@
 ### Olá, como está? 👋 Szia, hogy vagy? 👋
 
 
-- 🔭 Estou em transição de carreira para Full Stack Java!
-- 🔭 Tenho background de Design & User Experience 💜
+- 🔭 Estou em transição de carreira para Ux!
+- 🔭 Tenho background de Design 💜
 - 🔭 Tenho certificação profissional de Scrum Foundations pela SFPC 💜
 - 🌱 Para Back-end estudo: Lógica de programação, Linguagem Java, Banco de dados relacional (MySQL e Postgres), desenvolvimento de APIs e utilização de Spring
 - 🌱 Para Front-end estudo: Linguagem JavaScript, HTML, CSS, Bootscrap e Angular
 - 📫 Meu e-mail de contato: ingrid.kr@hotmail.com 
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: aos sábados de manhã, estou estudando húngaro como terceira língua ⚡<br>
 
 <div align="center">
   <a href="https://github.com/ingrid-kis">
